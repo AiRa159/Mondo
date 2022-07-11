@@ -1,0 +1,69 @@
+{
+  "cities": [
+    {
+      "name": "Cairo",
+      "country": "Egypt",
+      "square": "13.085 km²",
+      "texts": [
+        "Cairo or El-Kairo, is the capital of Egypt and the largest city in the Arab world. The metropolitan area of Greater Cairo with a population of 21.3 million people, It is the largest urban agglomeration in Africa, the largest in the Arab world and the Middle East, and the sixth most populous in the world. Cairo is associated with Ancient Egypt, as the Giza Pyramid complex and the ancient cities of Memphis and Heliopolis are located in its geographical area. Located near the Nile Delta."
+      ],
+      "photos": [
+        "https://ychef.files.bbci.co.uk/976x549/p07zy3y6.jpg",
+        "https://static.saltinourhair.com/wp-content/uploads/2019/03/23140923/cairo-pyramids-giza.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/9b/2f/5b/cairo.jpg?w=700&h=500&s=1"
+      ]
+    },
+    {
+      "name": "Madrid",
+      "country": "Spain",
+      "square": "604.300 km²",
+      "texts": [
+        "Madrid is the capital and the most populous city in Spain. The city is home to almost 3.4 million people, and the population of the metropolis is about 6.7 million people. It is the second largest city in the European Union (EU), second only to Berlin in its administrative borders, and its monocentric agglomeration is the second largest in the EU, second only to Paris. The municipality covers a geographical area of 604.3 km2 (233.3 sq mi). Madrid is located on the Manzanares River in the central part of the Iberian Peninsula. The capital of both Spain (almost without interruption since 1561) and the surrounding autonomous community of Madrid (since 1983), it is also the political, economic and cultural center of the country. The city is located on an elevated plain about 300 km (190 miles) from the nearest seaside location. Seasonal differences are large by Iberian standards with hot summers and cool winters. The mayor is Jose Luis Martinez-Almeida from the People's Party."
+      ],
+      "photos": [
+        "https://img.theculturetrip.com/1440x/smart/wp-content/uploads/2017/02/palacio-real.jpg",
+        "https://img.theculturetrip.com/1440x/smart/wp-content/uploads/2017/02/alcala-gate-in-madrid--the-alcala-gatepuerta-de-alcala-is-a-neo-classical-monument-in-the-independent-place-in-madrid-.jpg",
+        "https://img.theculturetrip.com/1440x/smart/wp-content/uploads/2017/02/crystal-palace-in-the-retiro-park.jpg"
+      ]
+    },
+    {
+      "name": "Rome",
+      "country": "Italy",
+      "square": "1.285 km²",
+      "texts": [
+        "Rome (Italian and Latin: Roma) is the capital city of Italy. It is also the capital of the Lazio region, the centre of the Metropolitan City of Rome, and a special comune named Comune di Roma Capitale. With 2,860,009 residents in 1,285 km2 (496.1 sq mi), Rome is the country's most populated comune and the third most populous city in the European Union by population within city limits. The Metropolitan City of Rome, with a population of 4,355,725 residents, is the most populous metropolitan city in Italy. Its metropolitan area is the third-most populous within Italy. Rome is located in the central-western portion of the Italian Peninsula, within Lazio (Latium), along the shores of the Tiber. Vatican City (the smallest country in the world) is an independent country inside the city boundaries of Rome, the only existing example of a country within a city. Rome is often referred to as the City of Seven Hills due to its geographic location, and also as the \"Eternal City\". Rome is generally considered to be the \"cradle of Western Christian culture and civilization\", and the center of the Catholic Church."
+      ],
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/00000_-_Rome_-_Colosseum_%283505798859%29.jpg/640px-00000_-_Rome_-_Colosseum_%283505798859%29.jpg",
+        "https://www.travelife.eu/wp-content/uploads/2020/07/%D1%80%D0%B8%D0%BC-%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D1%8F_1.jpg",
+        "https://planetofhotels.com/guide/sites/default/files/styles/paragraph__live_banner__lb_image__1880bp/public/live_banner/Rome_5.jpg"
+      ]
+    },
+    {
+      "name": "Ottawa",
+      "country": "Canada",
+      "square": "2.790 km²",
+      "texts": [
+        "Ottawa is the capital of Canada. Located on the south bank of the Ottawa River in southern Ontario, Ottawa borders Gatineau, Quebec, and forms the core of the Ottawa–Gatineau Census Metropolitan Area (CMA) and the National Capital Region (NCR). As of 2021, Ottawa had a population of 1,017,449 and a metropolitan population of 1,488,307, making it the fourth largest city and the fourth largest metropolitan area in Canada. Founded in 1826 as Bytown and incorporated into Ottawa in 1855, the city has become the political center of Canada. The Federal Government is the largest employer in the region, having a strong influence on the local economic structure. Its original boundaries were expanded as a result of numerous annexations and were eventually replaced by a new urban incorporation and amalgamation in 2001, which greatly increased its area. The municipal government is created and governed under the City of Ottawa Act of the Government of Ontario, and has an elected city council in 23 districts and a mayor elected throughout the city."
+      ],
+      "photos": [
+        "https://www.momondo.cz/rimg/dimg/66/6f/19cfcc07-city-9618-17782c76769.jpg?width=1366&height=768&xhint=2388&yhint=1183&crop=true",
+        "https://www.tripsavvy.com/thmb/wdR55uljRmHMCpM26xB6rdDxxI8=/4003x3002/smart/filters:no_upscale()/parliament-hill-in-ottawa--ontario--canada-1212275972-9f6f6e45ce084df89aaebf972e15b27b.jpg",
+        "https://canadiannorth.com/wp-content/uploads/2018/03/ottawa.jpg"
+      ]
+    },
+    {
+      "name": "Doha",
+      "country": "Qatar",
+      "square": "132 km²",
+      "texts": [
+        "Doha is the capital of Qatar. It has more people than the rest of Qatar combined, with a population of 2,382,000 (2018). The city is located on the Persian Gulf coast in the east of the country, north of Al-Wakrah and south of Al-Khor. It is the fastest growing city in Qatar, where more than 80% of the country's population lives in Doha or its environs. It is the political and economic center of the country. Doha was founded in the 1820s as an offshoot of Al-Bidda. It was officially declared the capital of the country in 1971, when Qatar gained independence from the British protectorate. As the commercial capital of Qatar and one of the developing financial centers in the Middle East, Doha is considered a beta-level global city by the globalization and World Cities research network. Doha is home to Education City, an area dedicated to research and education, and Hamad Medical City, an administrative area of medical services. It also includes the Doha Sports City, or Aspire Zone, an international sports destination including Khalifa International Stadium, the stadium for the 2022 FIFA World Cup; Hamad Aquatic Center; and Aspire Dome."
+      ],
+      "photos": [
+        "https://www.kam-a-kdy.cz/site/images/illustration/doha_372.jpg",
+        "https://cdn.pelikan.sk/photos/DOH-2/DOH-2.jpg",
+        "https://www.hoteliermiddleeast.com/2021/05/xN5eY3Kw-Accor-Doha-9.jpg"
+      ]
+    }
+  ]
+}

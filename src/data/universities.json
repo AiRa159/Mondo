@@ -1,0 +1,59 @@
+{
+  "universities": [
+    {
+      "name": "Suleyman Demirel University",
+      "country": "Kazakhstan",
+      "city": "Almaty region. Kaskelen",
+      "specialties": [
+        "Two Foreign Languages,", "Finance,", "Jurisprudence,", "Information Systems"
+      ],
+      "about": [
+        "The University was founded in 1996 on the initiative of President of Kazakhstan Nursultan Nazarbayev and former President of Turkey Suleiman Demirel."
+      ]
+    },
+    {
+      "name": "University of Oxford United Kingdom",
+      "country": "England",
+      "city": "Oxford",
+      "specialties": [
+        "Medical,", "Biomedical science,", "Jurisprudence,", "History"
+      ],
+      "about": [
+        "The founding date of Oxford University is unknown. It is known that teaching at Oxford existed in one form or another as early as 1096, but it is not clear when the university arose. The scholar Theobald of Etampe lectured at Oxford in the early 1100s. It has grown rapidly since 1167, when English students returned from the University of Paris. The historian Gerald of Wales lectured to such scientists in 1188, and the first known foreign scientist, Emo from Friesland, arrived in 1190. The head of the university has held the title of chancellor since at least 1201, and the masters were recognized by the universitas or corporation in 1231. The university received a royal charter in 1248 during the reign of King Henry III."
+      ]
+    },
+    {
+      "name": "Harvard University United States",
+      "country": "England",
+      "city": "Cambridge",
+      "specialties": [
+        "Economics and politics,", "Computer science,", "Engineering,", "Information Systems"
+      ],
+      "about": [
+        "With its reputation for academic excellence and traditional scholarly values, the University of Cambridge often ranks among the very top universities in the world for teaching, research, and international outlook. Cambridge is the second-oldest university in the English-speaking world and the world's third-oldest surviving university. The university grew out of an association of scholars who left the University of Oxford after a dispute with the townspeople.The two English ancient universities share many common features and are often jointly referred to as Oxbridge. Cambridge is ranked among the most prestigious universities in the world."
+      ]
+    },
+    {
+      "name": "Czech Technical University in Prague",
+      "country": "Czech Republic",
+      "city": "Prague",
+      "specialties": [
+        "Engineering,", "Nuclear Science,", "Architecture,", "Information Systems"
+      ],
+      "about": [
+        "Is one of the largest universities in the Czech Republic with 8 faculties, and is one of the oldest institutes of technology in Central Europe It is also the oldest non-military technical university in Europe. In 1705, Christian Joseph Wallenberg asked Emperor Leopold I for permission to teach \"engineering art\". Later, the emperor's only son, who succeeded him on the throne in 1707 under the name of Joseph I, ordered the Czech state of Prague to provide engineering education. For various reasons, the request was not executed for a long period of time. However, in October 1716, Willenberg repeated his request. Finally, on November 9, 17, by decree of the Czech government, Wallenberg was awarded the first professorial title of engineer in Central Europe. On January 7, 1718, he began teaching."
+      ]
+    },
+    {
+      "name": "Brno University of Technology",
+      "country": "Czech Republic",
+      "city": "Brno",
+      "specialties": [
+        "Business and Management,", "Fine Arts,", "Chemistry,", "Information Systems"
+      ],
+      "about": [
+        "The Jesuits dominated university education in Moravia in the early 18th century as they controlled the University of Olomouc. The focus on theology and philosophy was not welcomed by the Moravian nobility. The nobility initiated the beginning of legal education at the University of Olomouc in 1679. Later, in 1725, the Moravian nobility achieved the creation of a Noble Academy in Olomouc. There were lectures on law and economics, mathematics, geometry, civil and military architecture, history and geography. Since this apparently contributed to the formation of knighthood, foreign languages, dancing, fencing and horse riding were also taught there. The Academy was located in Olomouc until 1847, when it was transferred to Brno, where it became the basis for what later became the Technological University."
+      ]
+    }
+  ]
+}

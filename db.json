@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "email": "aiya@gmail.com",
+      "username": "Aiya",
+      "password": "123456",
+      "image": "blob:http://localhost:3000/861156b4-8e1f-470f-a408-f9e5901255e1",
+      "id": 1
+    },
+    {
+      "email": "rakhimovali632@gmail.com",
+      "username": "ali",
+      "password": "dada228",
+      "image": "blob:http://localhost:3000/ef328b06-2eda-49df-ad91-a10c3ae29c2a",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "user": "aiya@gmail.com",
+      "title": "qwertyuioplkjh",
+      "theme": "Other",
+      "comment": "sdfghjk,",
+      "id": 1
+    },
+    {
+      "user": "aiya@gmail.com",
+      "title": "swdefrgthyujikollikujhygtrfeddfrgthyjuki",
+      "theme": "University",
+      "comment": "wefrgthyjukilo;lkjhgtfdsfghjmk,l,mjnhbgvfdcvfbgnhmj,k",
+      "id": 2
+    },
+    {
+      "user": "aiya@gmail.com",
+      "title": "wertdef",
+      "theme": "Other",
+      "comment": "erfgth",
+      "id": 3
+    },
+    {
+      "user": "rakhimovali632@gmail.com",
+      "title": "niggf",
+      "theme": "Country",
+      "comment": "cgcv\n",
+      "id": 4
+    },
+    {
+      "user": "aiya@gmail.com",
+      "title": "zxcvbnm,.",
+      "theme": "Other",
+      "comment": "zxcvbnm,loiuytre",
+      "id": 5
+    }
+  ]
+}

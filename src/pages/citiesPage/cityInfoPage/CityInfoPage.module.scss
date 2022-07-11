@@ -1,0 +1,33 @@
+.cityInfoPage{
+  display: inline-block;
+  height: auto;
+  padding: 30px 100px;
+
+  h1{
+    font-weight: bold;
+  }
+
+  h3{
+    font-weight: normal;
+  }
+
+  .cities{
+    margin-top: -20px;
+    display: flex;
+    gap: 5px;
+  }
+
+  section{
+    padding-bottom: 10px;
+  }
+
+  .photos{
+    display: inline-block;
+  }
+
+  img{
+    height: 150px;
+    width: 250px;
+    margin-right: 10px;
+  }
+}

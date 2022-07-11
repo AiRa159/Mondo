@@ -1,0 +1,86 @@
+{
+  "countries": [
+    {
+      "name": "Argentina",
+      "capital": "Buenos Aires",
+      "location": "South America",
+      "square": "2.780.400 km²",
+      "cities": ["Buenos Aires,", "Cordova,", "Rosari,", "Mendoza,", "San Miguel de Tucuman,", "La Plata,", "Santa Fe,", "Salta,", "San Juan"],
+      "photos": [
+        "https://sol-o.ru/wp-content/uploads/2019/12/422166.742xp.jpg",
+        "https://bigcities.org/vacation/wp-content/uploads/sites/4/2021/03/Argentina-1.jpg",
+        "https://www.explorebyyourself.com/images/cms/data/Argentina/iguazu_17.jpg",
+        "https://yeremenko.ua/catalog/city/buenos-ajres/buenos-ajres.jpg"
+      ],
+      "texts": ["Argentina, officially the Argentine Republic, is the second after Brazil in terms of territory and the third after Brazil and Colombia in terms of population in South America, consisting of 24 administrative units — 23 provinces and the federal capital district of Buenos Aires. The largest Spanish-speaking country in the world by area.",
+        "Member of the UN (1945), OAS (1948), WTO (1995).",
+        "Argentina is one of the ten largest countries in the world. It occupies the southeastern part of the mainland of South America and the eastern part of the Tierra del Fuego archipelago.",
+        "It borders Chile to the west, Bolivia and Paraguay to the north, and Brazil and Uruguay to the northeast. In the east it is washed by the waters of the Atlantic Ocean, in the south by the Drake Strait."
+      ]
+    },
+    {
+      "name": "Belgium",
+      "capital": "Brussels",
+      "location": "Europe",
+      "square": "30.528 km²",
+      "cities": ["Brugge,", "Brussel,", "Wavre,", "Bouillon,", "Genk,", "Gent,", "Damme,"],
+      "photos": [
+        "https://bolerotour.ru/upload/pl_plugin_8/belgia-1_5a9e93fcb96e4.jpg",
+        "https://34travel.me/media/posts/5ddbc5ea3eefd-IMG-20190818-115459.jpg",
+        "https://saletur.ru/galery/tfoto/big/122/97/1229727.jpg"
+      ],
+      "texts": [
+        "Belgium the full official form is the Kingdom of Belgium or the Kingdom of Belgium — a state located in the north-west of Europe. The population is 11,414,214 people. It borders the Netherlands to the north, Germany to the east, Luxembourg to the southeast, and France to the south and west. It is washed by the North Sea in the northwest.",
+        "The form of government is a constitutional parliamentary monarchy, the form of administrative-territorial structure is a federation. Official languages: French, Dutch and German. The monetary unit is the euro",
+        "Belgium is a member of the UN (1945), IMF (1945), IBRD (1945), Council of Europe (1949), NATO (1949), EEC (1958; since 1993 — EU), OECD (1961), CSCE (1975; since 1995 — OSCE), WTO (1995), Schengen zones (1995), euro zones (1999)."
+      ]
+    },
+    {
+      "name": "Czech Republic",
+      "capital": "Prague",
+      "location": "Europe",
+      "square": "78.866 km²",
+      "cities": ["Prague,", "Brno,", "Ostrava,", "Liberec"],
+      "photos": ["https://d1e00ek4ebabms.cloudfront.net/production/ea5d0ee1-e882-4d15-9eab-4af3e17539ac.jpg",
+        "https://geology.com/world/czech-republic-map.gif"],
+      "texts": ["The Czech Republic, also called Czechia, is a landlocked country in Central Europe. Historically known as Bohemia, it is bordered by Austria to the south, Germany to the west, Poland to the northeast, and Slovakia to the southeast. The Czech Republic has a hilly landscape that covers an area of 78,871 square kilometers (30,452 sq mi) with a mostly temperate continental and oceanic climate. The capital and largest city is Prague; other major cities and urban areas include Brno, Ostrava, Plzeň and Liberec.",
+        "The Czech Republic is a unitary parliamentary republic and developed country with an advanced, high-income social market economy. It is a welfare state with a European social model, universal health care and tuition-free university education. It ranks 12th in the UN inequality-adjusted human development and 24th in the World Bank Human Capital Index. It ranks as the 9th safest and most peaceful country and 31st in democratic governance. The Czech Republic is a member of NATO, the European Union, OECD, OSCE, and the Council of Europe."
+      ]
+    },
+    {
+      "name": "Great Britain",
+      "capital": "London",
+      "location": "Europe",
+      "square": "209.331 km²",
+      "cities": ["London,", "Manchester,", "Birmingham,", "Liverpool,", "Leeds,", "Sheffield,", "Southampton"],
+      "photos": [
+        "https://imgproxy.natucate.com/e9H97jMu4UKYa2GXXzLj3I_CZxi45elu2gAYHe-3ong/rs:fill/g:ce/w:3840/h:2160/aHR0cHM6Ly93d3cubmF0dWNhdGUuY29tL21lZGlhL3BhZ2VzL3JlaXNlemllbGUvZDM0MTBkYTMtZWM4Yi00ODM5LTgzYzYtMWNkM2M3OGNlNDgzLzMzNDU5NDYwMjEtMTU1OTY1OTM2OC9ncm9zc2JyaXRhbm5pZW4tdWstbGFlbmRlcmluZm9ybWF0aW9uZW4tYnJ1ZWNrZS10b3dlci1icmlkZ2UtbG9uZG9uLW5hdHVjYXRlLmpwZw",
+        "https://empresa-journal.com/wp-content/uploads/2016/12/london-england-great-britain-city-united-hd-wallpaper-travel-world-picture-england-hd-wallpaper-city-1119431699.jpg",
+        "https://investrends.ch/site/assets/files/27457/westminster_telefonkabine_shutterstock_607235345.960x533.jpg"
+      ],
+      "texts": [
+        "Great Britain is an island in the North Atlantic Ocean off the northwest coast of continental Europe.  It is the largest of the British Isles, the largest European island and the ninth largest island in the world. The island has a maritime climate with slight temperature differences between seasons.",
+        "The island of Ireland, 60% smaller in size, is located to the west – together these islands, as well as more than 1,000 small surrounding islands and called substantial rocks, form the archipelago of the British Isles. The term \"Great Britain\" is often used to refer to England, Scotland and Wales, including their constituent adjacent islands.",
+        "Great Britain and Northern Ireland currently make up the United Kingdom. The United Kingdom of Great Britain was formed as a result of the Acts of Union of 1707 between the kingdoms of England (which at that time included Wales) and Scotland."
+      ]
+    },
+    {
+      "name": "Kazakhstan",
+      "capital": "Nur-Sultan",
+      "location": "Central Asia",
+      "square": "2.725.000 km²",
+      "cities": ["Almaty,", "Aktau,", "Shymkent,", "Taraz,", "Karaganda,", "Nur-Sultan,", "Aktobe", "Atyrau"],
+      "photos": [
+        "https://www.coe.int/documents/204503/67779280/Astana/280011e3-f61c-df49-3218-e6ac50b66239?t=1592324080000",
+        "https://static.trip101.com/paragraph_media/pictures/001/227/736/large/aefce499-5134-49fa-9837-23f7d4cac9ac.jpg?1529379241",
+        "https://cdn.britannica.com/52/7252-050-FE079526/Kazakhstan-map-features-locator.jpg"
+      ],
+      "texts": [
+        "Kazakhstan- officially the Republic of Kazakhstan, is a transcontinental country located mainly in Central Asia and partly in Eastern Europe. It borders Russia to the north and west, China to the east, Kyrgyzstan to the southeast, Uzbekistan to the south, and Turkmenistan to the southwest.",
+        "Its capital is NurSultan, formerly known as Astana till 2019. Almaty, Kazakhstan's largest city, was the country's capital until 1997. Kazakhstan is the world's largest landlocked country, the world's largest Muslim-majority country by land area (and the northernmost), and the ninth-largest country in the world overall. It has a population of 19 million people. The country dominates Central Asia economically and politically, generating 60 percent of the region's GDP, primarily through its oil and gas industry; it also has vast mineral resources.",
+        "Officially, it is a democratic, secular, unitary, constitutional republic with a diverse cultural heritage. Kazakhstan is a member state of the United Nations, the World Trade Organization, the Commonwealth of Independent States, the Shanghai Cooperation Organisation, the Eurasian Economic Union, the Collective Security Treaty Organization, the Organization for Security and Cooperation in Europe, the Organization of Islamic Cooperation, the Organization of Turkic States, and the International Organization of Turkic Culture."
+      ]
+    }
+  ]
+
+}

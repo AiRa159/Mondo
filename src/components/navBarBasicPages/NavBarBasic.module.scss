@@ -1,0 +1,24 @@
+.navigationBar{
+  height: auto;
+  width: available;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 100px;
+  background-image: url("../../assets/praga-bg.png");
+
+  a{
+    text-decoration: none;
+    font-size: x-large;
+    background: none;
+
+    &:hover{
+      text-decoration: underline;
+      text-decoration-thickness: 1px;
+    }
+
+    &.active{
+      text-decoration: underline;
+      text-decoration-thickness: 1px;
+    }
+  }
+}
